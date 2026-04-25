@@ -10,3 +10,4 @@ elif nota <=8:
          print("Bine")
 elif nota <=10:
         print("Excelent")
+        
